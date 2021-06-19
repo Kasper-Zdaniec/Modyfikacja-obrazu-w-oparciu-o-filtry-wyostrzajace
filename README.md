@@ -1,28 +1,28 @@
-# LAB-8-Laplace-i-inne
+# Modyfikacja obrazu w oparciu o filtry wyostrzające
 
 
 Filtr Laplace przed
 
-![Drzewo](https://user-images.githubusercontent.com/80647495/122575421-07663800-d051-11eb-9e21-9d2464fa7b76.jpg)
+![Zdjęcie_przed](https://user-images.githubusercontent.com/79860696/122645722-09e19400-d11c-11eb-92e9-1ee82f99f55d.jpg)
 
 
 Po
 
-![Laplace](https://user-images.githubusercontent.com/80647495/122575446-0f25dc80-d051-11eb-9312-328da9ee924b.png)
+![Zdjęcie_po_laplac'ie](https://user-images.githubusercontent.com/79860696/122645726-0e0db180-d11c-11eb-9140-d660d7d621d9.jpg)
 
 
 Prewitt pion
 
-![Prewitt pziom](https://user-images.githubusercontent.com/80647495/122576644-2d400c80-d052-11eb-8d0c-6df5df7567fa.png)
+![Zdjęcie_po_prewitt'cie](https://user-images.githubusercontent.com/79860696/122645698-f6362d80-d11b-11eb-81ef-4924db55b0a0.jpg)
 
 
 Filtr Robertsa
 
-![Roberts poziom](https://user-images.githubusercontent.com/80647495/122578456-2c0fdf00-d054-11eb-986a-b20788d9ce8a.png)
+![Zdjęcie_po_roberts'ie](https://user-images.githubusercontent.com/79860696/122645703-fb937800-d11b-11eb-999f-7cad3a73dfd7.jpg)
 
 
 Sobel
 
 
 
-![Sobel](https://user-images.githubusercontent.com/80647495/122580738-932e9300-d056-11eb-8ce3-062c9b793d8e.png)
+![Zdjęcie_po_sobel'u](https://user-images.githubusercontent.com/79860696/122645710-00582c00-d11c-11eb-879b-da12665c51f4.jpg)
